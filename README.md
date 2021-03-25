@@ -26,7 +26,7 @@ Doge Doge: `https://www.dogedoge.com/results?q=关键字`
 
 
 
-### 站内型搜素
+### 站内型搜索
 
 虎扑社区：`https://my.hupu.com/search?q=关键字`
 
