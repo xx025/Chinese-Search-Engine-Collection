@@ -40,6 +40,8 @@ Doge Doge: `https://www.dogedoge.com/results?q=关键字`
 
 百度贴吧：`https://tieba.baidu.com/f/search/fm?ie=UTF-8&qw=关键字`
 
+ACG社区：`https://www.acgbbs.net/search.php`
+
 天涯论坛：`https://search.tianya.cn/bbs?q=关键字`
 
 nga论坛：`https://bbs.nga.cn/thread.php?key=关键字`
@@ -50,7 +52,7 @@ nga论坛：`https://bbs.nga.cn/thread.php?key=关键字`
 
 小红书[^1]：`https://www.sov5.cn/engine/f97mfMwdBq/search?q=关键字`
 
-
+北大未名：`https://bbs.pku.edu.cn/v2/search.php?mode=post&timeorder=1&key=关键字`
 
 
 
