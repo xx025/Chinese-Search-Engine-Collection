@@ -1,14 +1,28 @@
-# 中文互联网搜素引擎(搜集)目录
+
+<p align="center"><img width="100" src="image\logo.png" alt="Vue logo"></p>
+
+
+<h2 align="center">中文互联网搜素引擎(搜集)目录</h2>
+
+
+
+### 通用型搜素引擎
 
 百度：`https://www.baidu.com/s?ie=UTF-8&wd=关键字`
 
 搜狗： `https://www.sogou.com/web?query=关键字`
 
-Magi: `https://magi.com/search?q=关键字`
+必应：`https://www.bing.com/search?q=关键字`
 
 360： `https://www.so.com/s?ie=utf-8&fr=none&src=home_none&q=关键字`
 
+Magi: `https://magi.com/search?q=关键字`
+
 神马搜索：`https://quark.sm.cn/s?q=关键字`
+
+
+
+### 社区论坛型搜素
 
 虎扑社区：`https://my.hupu.com/search?q=关键字`
 
@@ -19,4 +33,5 @@ Magi: `https://magi.com/search?q=关键字`
 微博：`https://s.weibo.com/weibo?q=关键字`
 
 天涯论坛：`https://search.tianya.cn/bbs?q=关键字`
+
 
